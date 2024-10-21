@@ -1,6 +1,6 @@
 from typing import Protocol
 
-from src.constants import Player
+from src import Player
 from src.square import Square
 
 

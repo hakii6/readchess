@@ -1,6 +1,6 @@
 from attr import dataclass
 from square import Square
-from src.constants import Player
+from src import Player
 from src.pieces.piece import Piece
 
 
